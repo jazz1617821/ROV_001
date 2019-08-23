@@ -1,0 +1,17 @@
+.vs/
+x64/
+Model/
+Image/
+GeneratedFiles/
+
+
+*.exe
+*.obj
+*.mtl
+*.raw
+*.db
+*.pdb
+*.tlog
+*.vcxproj
+*.filters
+*.log
